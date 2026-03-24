@@ -1,3 +1,21 @@
-    body{ 
-        background-color: aqua;
-    }
+
+.vazio{
+    border: 1.2px dashed;
+    border-top: 0.5px solid blue;}
+
+
+.amigo {
+    border: 1.6px dashed blue;
+
+}
+
+body{background-color:darkgreen;}
+
+
+.animese{border:1.2px dashed  chocolate}
+
+
+
+
+
+

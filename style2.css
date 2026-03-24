@@ -1,0 +1,31 @@
+body{
+    background-image: url("https://blog.venturas.com.br/wp-content/uploads/2016/08/costa-rica-a-opcao-ideal-para-o-turismo-de-natureza-na-america-latina.jpeg");
+}
+main{
+    height: 100vh;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 60px;
+
+    color: blue;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+}
+h2{color: blueviolet;}
+
+
+h2{color: blueviolet;}
+
+    h3{color:aqua;}
+
